@@ -5,5 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-apline
 python:apline3.19
